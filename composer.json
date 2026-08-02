@@ -1,12 +1,12 @@
 {
     "name": "angeom21/frappe-laravel-bridge",
-    "description": "Frappe API Bridge for Laravel",
+    "description": "A powerful and seamless Frappe/ERPNext API Bridge for Laravel. Allows invoking Frappe Python methods directly via PHP magic methods.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Angeom21",
-            "email": "angeom@example.com"
+            "email": "idrisanjoughan313@gmail.com"
         }
     ],
     "require": {
